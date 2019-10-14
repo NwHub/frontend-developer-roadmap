@@ -19,7 +19,7 @@
 
 ## Roadmap
 
-![Roadmap](./roadmap-ja.png)
+![Roadmap](./frontend-developer-roadmap-ja.png)
 
 ## Resources
 
