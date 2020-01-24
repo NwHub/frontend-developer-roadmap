@@ -1,4 +1,4 @@
-# React 開発者ロードマップ
+# Frontend 開発者ロードマップ
 
 [README in Chinese](README-CN.md)
 
